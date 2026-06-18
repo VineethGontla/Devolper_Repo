@@ -6,6 +6,11 @@ names : [
     {
     name : vineeth
     age : 23
-} 
+}
+
+{
+    name : jagan
+    age : 30
+}
 
 ]
