@@ -18,4 +18,8 @@ names : [
     age : 32
 }
 
+tags : {
+    owner : vineeth
+}
+
 ]
